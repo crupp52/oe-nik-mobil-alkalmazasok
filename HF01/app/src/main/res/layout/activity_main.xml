@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_margin="10dp">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:rowCount="2"
+        android:columnCount="2"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:background="#E53935"
+            android:height="120dp"
+            android:layout_margin="10dp"
+            android:layout_columnWeight="1"
+            android:gravity="center"
+            android:textSize="44sp"
+            android:textColor="#ffffff"
+            android:text="AAA\n1"/>
+
+        <TextView
+            android:background="#FDD835"
+            android:height="120dp"
+            android:layout_margin="10dp"
+            android:layout_columnWeight="1"
+            android:gravity="center"
+            android:textSize="44sp"
+            android:textColor="#000000"
+            android:text="BBB\n2"/>
+
+        <TextView
+            android:background="#3949AB"
+            android:height="120dp"
+            android:layout_margin="10dp"
+            android:layout_columnWeight="1"
+            android:gravity="center"
+            android:textSize="44sp"
+            android:textColor="#ffffff"
+            android:text="CCC\n3"/>
+
+        <TextView
+            android:background="#43A047"
+            android:height="120dp"
+            android:layout_margin="10dp"
+            android:layout_columnWeight="1"
+            android:gravity="center"
+            android:textSize="44sp"
+            android:textColor="#000000"
+            android:text="DDD\n4"/>
+
+    </GridLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Some text goes here..."
+        android:textColor="#5E35B1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="44sp"
+            android:hint="A"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@mipmap/ic_launcher"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:textSize="44sp"
+            android:hint="BB"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="44sp"
+            android:text="-" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="44sp"
+            android:hint="C"/>
+
+    </LinearLayout>
+
+</LinearLayout>
