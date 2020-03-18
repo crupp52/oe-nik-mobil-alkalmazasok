@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gy-05</string>
+    <string name="temperature">Temperature</string>
+    <string name="calculate">Calculate</string>
+    <string name="to_celsius">To Celsius</string>
+    <string name="to_fahrenheit">To Fahrenheit</string>
+</resources>
