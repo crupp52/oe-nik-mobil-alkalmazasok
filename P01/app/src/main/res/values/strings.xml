@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Neumann - Jobs Info</string>
+    <string name="neumann_janos">Neumann János</string>
+    <string name="jn_text1">1903. december 28-án született Neumann Miksa és Kann Margit első gyermekeként Budapesten, a Váci körút (ma Bajcsy-Zsilinszky út) 62. sz. házban. Jánosnak később két öccse is született: Mihály (1907) és Miklós (1911). Az édesapja Pécsről származott, és Budapesten ügyvédként dolgozott, aztán a Magyar Jelzálog- és Hitelbankhoz került először főjogtanácsosi pozícióba, majd pedig a bank igazgatói székébe. János édesanyja, Margit a háztartást vezette és fiai nevelésével foglalatoskodott.</string>
+    <string name="jn_text2">Margittai Neumann János magyar születésű matematikus. Kvantummechanikai elméleti kutatásai mellett a digitális számítógép elvi alapjainak lefektetésével vált ismertté.</string>
+    <string name="sj_text1">Steven Paul „Steve” Jobs (San Francisco, Kalifornia, 1955. február 24. – Palo Alto, Kalifornia, 2011. október 5.) amerikai üzletember volt. Az Apple elnöke, vezérigazgatója, az informatikai és a szórakoztatóipar ismert alakja. A számítástechnika egyik úttörője, aki meglátta a lehetőséget a grafikus felhasználói felületben (GUI) és az egérben, mellyel egy Xerox PARC-bemutató alkalmával találkozott. Jobs irányítása alatt fejlesztette ki az Apple Computer a cég egyik fő termékét, az Apple Macintosh számítógépet, valamint az iPod médialejátszót, az iPhone okostelefont és az iPad táblagépet.</string>
+    <string name="steve_jobs">Steve Jobs</string>
+</resources>
