@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P02</string>
+    <string name="projekt_no2">Projekt No2</string>
+    <string name="add">Add</string>
+    <string name="nev">Név</string>
+    <string name="kedvenc_honlap">Kedvenc honlap</string>
+    <string name="telefonszam">Telefonszám</string>
+    <string name="hozzaad">Hozzáad</string>
+    <string name="iskola">Iskola</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
